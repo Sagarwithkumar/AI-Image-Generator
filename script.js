@@ -1,4 +1,4 @@
-const apiKey="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";
+const apiKey="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";
 const maxImages=6;//max number of images to display
 let selectedImageNumber=null;
 
